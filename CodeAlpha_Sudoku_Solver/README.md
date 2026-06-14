@@ -112,24 +112,10 @@ You solved the Sudoku completely!
 
 ---
 
-# ▶ Installation
+# ▶ How to play
 
-## Requirements
-
-* C++ Compiler
-* SFML Installed
-
-Compile:
-
-```bash
-g++ Source.cpp -o Sudoku -lsfml-graphics -lsfml-window -lsfml-system
-```
-
-Run:
-
-```bash
-./Sudoku
-```
+* Just double click on the Sudoko.exe file and the game will launch!
+* (Note: make sure that the SFML dependencies are present with the Sudoko.exe file)
 
 ---
 
@@ -141,23 +127,8 @@ Sudoku-SFML/
 ├── Source.cpp
 ├── arial.ttf
 ├── SFML Dependencies
-├── Executable Build
+├── Sudoko.exe(Executable Build)
 └── README.md
-```
-
----
-
-# 📸 Screenshots
-
-Add screenshots here.
-
-Suggested:
-
-```text
-screenshots/
-├── main_game.png
-├── conflict_detection.png
-├── solved_board.png
 ```
 
 ---
