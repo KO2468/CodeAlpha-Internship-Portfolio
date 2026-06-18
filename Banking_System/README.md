@@ -2,8 +2,6 @@
 
 A console-based banking management system developed in C++ that simulates customer registration, account management, transactions, and account statements.
 
-This project was built as part of the **CodeAlpha C++ Programming Internship** and focuses on applying **Object-Oriented Programming (OOP)** principles while creating a realistic banking workflow.
-
 ---
 
 # 📌 Features
@@ -200,12 +198,6 @@ Through this project I strengthened understanding of:
 - Monthly statements
 - GUI interface using SFML
 - Export transaction reports
-
----
-
-# 📜 Internship Information
-
-Project completed as part of the **CodeAlpha C++ Programming Internship**.
 
 ---
 
