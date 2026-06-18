@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Projects/CodeAlpha-tasks",
-      "program": "d:/Projects/CodeAlpha-tasks/build/Debug/outDebug",
+      "cwd": "d:/Projects/CodeAlpha-tasks/CodeAlpha_Login_and_Registration_System",
+      "program": "d:/Projects/CodeAlpha-tasks/CodeAlpha_Login_and_Registration_System/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
